@@ -1,0 +1,6 @@
+SELECT TOP (1000) [UserName]
+      ,[Password]
+      ,[Confirm_Password]
+      ,[Birth_date]
+      ,[Gender]
+  FROM [Registerform].[dbo].[register]
