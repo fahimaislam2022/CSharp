@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="admin registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="fashioncs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fashioninfouser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Foodbuyphase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Foodinfouser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Foods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gadgetinfouser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Gadgets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Itemcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="itemview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="selleritemadd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sellerlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sellerregistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sellerview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewofUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Viewpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
