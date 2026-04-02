@@ -9,13 +9,12 @@ The Super Shop Management System is designed to streamline the management of var
   - Foods
   - Gadgets
   - Fashion
-- Detailed information pages for foods.
+- Detailed information pages for foods,gadgets,fashion.
 - Intuitive user interface for easy navigation.
 
 ## Technology Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** .NET (C#)
-- **Database:** SQL Server
+- **Frontend and Backend:** .NET (C#)
+- **Database:** MYSQL Server
 
 ## Installation Instructions
 1. Clone the repository:
@@ -41,10 +40,7 @@ The Super Shop Management System is designed to streamline the management of var
 - Manage items by navigating to the respective category (Foods, Gadgets, or Fashion).
 - Click on the food items for more detailed information on them.
 
-## Project Structure
-- `src/`: Contains source files for the application.
-- `docs/`: Contains documentation and application screenshots.
-- `tests/`: Contains unit and integration tests.
+
 
 
 This README provides a comprehensive overview of the Super Shop Management System, guiding you through the installation and usage while also showcasing the app's features.
