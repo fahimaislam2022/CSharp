@@ -46,10 +46,5 @@ The Super Shop Management System is designed to streamline the management of var
 - `docs/`: Contains documentation and application screenshots.
 - `tests/`: Contains unit and integration tests.
 
-## Screenshots
-- Registration Page Screenshot
-- Login Page Screenshot
-- Items Management (Foods, Gadgets, Fashion) Screenshot
-- Food Information Page Screenshot
 
 This README provides a comprehensive overview of the Super Shop Management System, guiding you through the installation and usage while also showcasing the app's features.
